@@ -1,6 +1,6 @@
 # ShareFiles
 
-Simple "share files" application.
+Simple "share files" application on sockets.
 
 ## Example
 
